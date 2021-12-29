@@ -11,21 +11,21 @@ body, html {
 }
 
 .hmong {
-  font-size: 60px;
+  font-size: 40px;
   font-family: serif, sans-serif;
-  line-height: 100px;
+  line-height: 80px;
 }
 
 .aboutme1 {
-  font-size: 60px;
+  font-size: 40px;
   font-family: serif, sans-serif;
   line-height: 80px;
 }
 
 .fact {
-  font-size:60px;
+  font-size:40px;
   font-family: serif, sans-serif;
-  line-height: 100px;
+  line-height: 80px;
 }
 
 .oval {
@@ -52,7 +52,6 @@ body, html {
 }
 
 span {
-  padding-top: 70px;
   display: inline-block;
 }
 
@@ -60,7 +59,7 @@ span {
   text-align: center;
   border-bottom: 10px solid black;
   font-size: 80px;
-  line-height: 100px;
+  line-height: 80px;
   font-family: cursive, serif, sans-serif;
   font-style: italic; 
   font-weight: bold;
@@ -119,7 +118,7 @@ span {
 
 .tabcontent {
   color: black;
-  padding: 10px 20px;
+  padding: 10px 40px;
   height: auto;
 }
 
