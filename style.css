@@ -120,7 +120,7 @@ span {
 .tabcontent {
   color: black;
   padding: 10px 20px;
-  height: 100%;
+  height: auto;
 }
 
 #AboutMe {
