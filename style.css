@@ -11,13 +11,13 @@ body, html {
 }
 
 .hmong {
-  font-size: 60px;
+  font-size: 800px;
   font-family: serif, sans-serif;
   line-height: 100px;
 }
 
 .aboutme1 {
-  font-size: 50px;
+  font-size: 80px;
   font-family: serif, sans-serif;
   line-height: 100px;
 }
@@ -53,8 +53,8 @@ span {
 .experiencetitle {
   text-align: center;
   border-bottom: 10px solid black;
-  font-size: 100px;
-  line-height: 40px;
+  font-size: 80px;
+  line-height: 100px;
   font-family: cursive, serif, sans-serif;
   font-style: italic; 
   font-weight: bold;
@@ -143,12 +143,12 @@ span {
 }
 
 #contactinfo {
-  font-size: 70px;
+  font-size: 80px;
   line-height: 100px;
   font-family: serif, sans-serif;
 }
 
 #contactlist {
-  font-size: 40px;
+  font-size: 80px;
   line-height: 100px;
 }
