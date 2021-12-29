@@ -11,13 +11,19 @@ body, html {
 }
 
 .hmong {
-  font-size: 800px;
+  font-size: 80px;
   font-family: serif, sans-serif;
   line-height: 100px;
 }
 
 .aboutme1 {
   font-size: 80px;
+  font-family: serif, sans-serif;
+  line-height: 100px;
+}
+
+.fact {
+  font-size:50px;
   font-family: serif, sans-serif;
   line-height: 100px;
 }
@@ -113,7 +119,7 @@ span {
 
 .tabcontent {
   color: black;
-  padding: 100px 20px;
+  padding: 10px 20px;
   height: 100%;
 }
 
@@ -140,6 +146,13 @@ span {
   background-image: url(http://www.mattgorby.com/wp-content/uploads/2013/12/img-contact-me.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+#contacttitle {
+  font-size: 100px;
+  line-height: 100px;
+  font-family: serif, sans-serif;
+  text-align: center;
 }
 
 #contactinfo {
