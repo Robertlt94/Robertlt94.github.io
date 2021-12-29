@@ -10,10 +10,16 @@ body, html {
   background-color
 }
 
-.aboutme1 {
-  font-size: 30px;
+.hmong {
+  font-size:60px;
   font-family: serif, sans-serif;
-  text-wrap: 
+  line-height: 100px;
+}
+
+.aboutme1 {
+  font-size: 50px;
+  font-family: serif, sans-serif;
+  line-height: 100px;
 }
 
 .oval {
@@ -46,8 +52,8 @@ span {
 
 .experiencetitle {
   text-align: center;
-  border-bottom: 5px solid black;
-  font-size: 30px;
+  border-bottom: 10px solid black;
+  font-size: 100px;
   line-height: 40px;
   font-family: cursive, serif, sans-serif;
   font-style: italic; 
@@ -56,8 +62,8 @@ span {
 }
 
 .educationtitle {
-  text-align: left;
-  font-size: 50px;
+  text-align: center;
+  font-size: 100px;
   font-family: cursive, serif, sans-serif;
   font-style: italic; 
   font-weight: bold;
@@ -113,12 +119,12 @@ span {
 
 #AboutMe {
   background-color: #E1D9D1;
-  line-height: 30px;
+  line-height: 100px;
 }
 
 #Experience {
   background-color: lightgreen;
-  line-height: 15px
+  line-height: 20px
 }
  
 #Education {
@@ -126,6 +132,7 @@ span {
   background-repeat: no-repeat;
   background-size: cover;
   background-image: url(https://www.freeppt7.com/uploads/180630/1-1P630101610122.jpg);
+  text-align: center;
 }
 
 #Contact {
@@ -136,12 +143,12 @@ span {
 }
 
 #contactinfo {
-  font-size: 40px;
-  line-height: 50px;
+  font-size: 70px;
+  line-height: 100px;
   font-family: serif, sans-serif;
 }
 
 #contactlist {
-  font-size: 30px;
-  line-height: 60px;
+  font-size: 40px;
+  line-height: 100px;
 }
